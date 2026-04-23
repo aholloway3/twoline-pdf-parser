@@ -25,7 +25,7 @@ The script:
 - Date pattern detection
 
 ## Files
-- `parser.py` — Main extraction script
+- `convert_twoline.py` — Main extraction script
 - `sample_input.txt` — Example of the expected text format (synthetic data)
 - `sample_output.csv` — Example of the structured output
 
