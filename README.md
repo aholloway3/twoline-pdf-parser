@@ -42,7 +42,7 @@ Company Name                123 Main St, City           (555) 123-4567
 
 ## How to Run
 ```bash
-python parser.py
+python convert_twoline.py
 ```
 
 ## Limitations
