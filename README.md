@@ -25,7 +25,7 @@ The script:
 - Date pattern detection
 
 ## Files
-- `convert_twoline.py` — Main extraction script
+- `parser.py` — Main extraction script
 - `sample_input.txt` — Example of the expected text format (synthetic data)
 - `sample_output.csv` — Example of the structured output
 
@@ -42,7 +42,7 @@ Company Name                123 Main St, City           (555) 123-4567
 
 ## How to Run
 ```bash
-python convert_twoline.py
+python parser.py
 ```
 
 ## Limitations
